@@ -3,12 +3,24 @@ Sass and SCSS lint config file that follows the rules of the [Sass Guidelines](h
 
 ## How to use
 
+### NPM
+Using package manager:
+```
+npm i sass-lint-config-file
+```
+
 ### Clone
 Clone this repository and save the sass/scss file to the root directory of your project.
 
 ### Link
 Use the direct link to this repository file:
 
-**Sass**: `https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/sass-lint.yml`
+**Sass**:
+```
+https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/sass-lint.yml
+```
 
-**SCSS**: `https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/scss-lint.yml`
+**SCSS**:
+```
+https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/scss-lint.yml
+```
