@@ -9,6 +9,6 @@ Clone this repository and save the sass/scss file to the root directory of your 
 ### Link
 Use the direct link to this repository file:
 
-**Sass**: `https://raw.githubusercontent.com/darlanrod/sass-linter-configuration-file/master/sass-lint.yml`
+**Sass**: `https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/sass-lint.yml`
 
-**SCSS**: `https://raw.githubusercontent.com/darlanrod/sass-linter-configuration-file/master/scss-lint.yml`
+**SCSS**: `https://raw.githubusercontent.com/darlanrod/sass-lint-config-file/master/scss-lint.yml`
